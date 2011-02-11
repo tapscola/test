@@ -8,3 +8,5 @@ And this was edited in master
 =======
 i have edited this for branching
 >>>>>>> themez
+testing for rebasing
+testing from client branch
