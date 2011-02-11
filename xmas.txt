@@ -3,4 +3,8 @@ testing again and again and again
 
 not again
 
+<<<<<<< HEAD
 And this was edited in master
+=======
+i have edited this for branching
+>>>>>>> themez
