@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+Message from server branch
 Wake up!!!
+=======
+Wake up!!!!
+>>>>>>> 2ab02778bcce70ac2acfe90ebc89c360e3a6dc2a
