@@ -10,4 +10,3 @@ i have edited this for branching
 >>>>>>> themez
 testing for rebasing
 testing from client branch
-testing from rebasing
