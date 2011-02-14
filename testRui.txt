@@ -1,7 +1,0 @@
-this is a test from Rui
-
-from the moduluz branch
-
-from the themez branch
-
-rui test changed from client branch
