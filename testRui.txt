@@ -1,9 +1,0 @@
-This is from Taps on client branch to be tested on server branch before master mere merging with master
-
-this is a test from Rui
-
-from the moduluz branch
-
-from the themez branch
-
-rui test changed from client branch
