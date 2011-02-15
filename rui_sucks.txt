@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Chnged this
+Chnged thi and i changed this also
 Message from server branch
 Wake up!!!
 =======
